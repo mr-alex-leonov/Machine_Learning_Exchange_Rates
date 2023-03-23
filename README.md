@@ -2,21 +2,21 @@
 
  ***MACHINE LEARNING AND PREDICTING EXCHANGE RATES***
  
- Presented by:
+     Presented by:
  
- Alex Leonov, Manan Wala, Ritvik Thakur, Thi Minh Thu Nguyen, Abdullah Aldahhan
+     ** Alex Leonov, Manan Wala, Ritvik Thakur, Thi Minh Thu Nguyen, Abdullah Aldahhan
 
 * Motivation & Summary Slide
 
-      * Exchange Rates are an integrall part of International Economics and the Stock Market. There are multiple factors that affect the excahnge rate between any 2 countries. Our goal was to evaluate the most known parametes that affect Excahnge Rates: CPI (Consumer Price Index), Foreign Reserves, and Prime Rates. Additionaly Crude Oil Prices, SP500 index, and S&P/TSX Composite data was prepared for further analysis. Our goal was to use this data to predict the future Exchange Rate Between Candian Dollar and American Dollar. Historicall Data after 1970 was used for our analysis.
+ Exchange Rates are an integrall part of International Economics and the Stock Market. There are multiple factors that affect the excahnge rate between any 2 countries. Our goal was to evaluate the most known parametes that affect Excahnge Rates: CPI (Consumer Price Index), Foreign Reserves, and Prime Rates. Additionaly Crude Oil Prices, SP500 index, and S&P/TSX Composite data was prepared for further analysis. Our goal was to use this data to predict the future Exchange Rate Between Candian Dollar and American Dollar. Historicall Data after 1970 was used for our analysis.
       
-      * We divided our data into daily and monthly data. For example CPI and Foreign Reserves was compared to the average exchange rate for the month (as MONTHLY data), and Prime Rates were analysed on a daily basis.
+ We divided our data into daily and monthly data. For example CPI and Foreign Reserves was compared to the average exchange rate for the month (as MONTHLY data), and Prime Rates were analysed on a daily basis.
   
   
 
 * Model Summary
 
-  * Our team used multipe models to evaluate the historical monthly and daily data and make predictions:
+Our team used multipe models to evaluate the historical monthly and daily data and make predictions:
   
       * Cluster Analysis
       * Linear Regression with redictions
@@ -79,10 +79,10 @@ Further Analysis (Training and Testing) is required to determine the most ultima
   
 Many unanswered questions remain:
 
-- Which other variables could effect and explain the variation in teh CAD/USD Exchange rate? For example, 10-year bond yeild.
-- What if we combined all daily and monthly variables and used a more sophisticated ML algorithm?
-- Would our findings hold true for other currency pairs?
-- Integrating our findings into automated trading or Roboadvisor platform based on live API's
+-Which other variables could effect and explain the variation in teh CAD/USD Exchange rate? For example, 10-year bond yeild.
+-What if we combined all daily and monthly variables and used a more sophisticated ML algorithm?
+-Would our findings hold true for other currency pairs?
+-Integrating our findings into automated trading or Roboadvisor platform based on live API's
 
 
 
